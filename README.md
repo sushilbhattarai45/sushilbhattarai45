@@ -5,7 +5,7 @@
 - 📫 Mail me at bhattaraisushil005@gmail.com...
 -  Socials:
 -  https://www.instagram.com/sushil_bhattarai45
--  https://www.facebpook.com/sushilbhattaraiofficial
+-  https://www.facebook.com/sushilbhattaraiofficial
 
 <!---
 sushilbhattarai45/sushilbhattarai45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
