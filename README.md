@@ -1,84 +1,44 @@
-- 👋 Hi, I’m @sushilbhattarai45
-- 👀 I’m interested in Full-stack Development...
-- 💞️ I’m looking to collaborate on App and Web Development 
-- 📫 Mail me at bhattaraisushil005@gmail.com
--  Socials:
--  https://www.instagram.com/sushil_bhattarai45
--  https://www.facebook.com/sushilbhattaraiofficial
+ Hi, I'm **@sushilbhattarai45**! 
 
-<hr />
-<hr />
-Some Links
-<p>
- - <a href="https://sushilbhattarai.hashnode.dev/">
-   Blogs
- </a>
- </p>
- <p>
--   <a href="https://sushilbhattarai.info.npv/">
-  Website
- </a>
-     </p>
-     <p>
-                  <a href="https://sushilbhattarai.info.np/resume"> - Resume</a>
-  </p>
+**** I'm a passionate **Full-stack Developer** with a strong interest in building innovative web and mobile applications. 
 
-<hr />
+ I'm eager to collaborate on exciting projects and share my knowledge with others. Feel free to reach out! 
 
+ Contact me: [bhattaraisushil005@gmail.com](mailto:bhattaraisushil005@gmail.com)
 
-<h2>Projects </h2>
-<table>
-  <tr>
-    <th>S.N.</th>
-    <th>Project's Name</th>
-    <th>Short Description</th>
-    <th>Live Link</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td><a href="https://sushilbhattarai.hashnode.dev/">Ragat Nepal</a></td>
-    <td>A blood donation app connecting donors and recipients.</td>
-    <td><a href="https://ragatnepal.com">Website</a></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Onservic</td>
-    <td>Client app (Android) connecting vendors and customers.</td>
-    <td>-</a></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hashyy</td>
-    <td>AI platform for summarizing article content.</td>
-    <td><a href="https://hashyy.vercel.app/">Hashyy</a></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Yaatru</td>
-    <td>React JS platform for learning about celestial bodies (NASA Space App Challenge project).</td>
-    <td><a href="https://yaatru.vercel.app/">Yaatru</a></td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>E-Med Nepal</td>
-    <td>Platform for centralized and secure patient medical record management accessible only by hospitals.</td>
-    <td><a href="https://e-med-nepal.vercel.app/">E-Med Nepal</a></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>VoicePet</td>
-    <td>Voice assistant using ChatGPT and Appwrite for information, recommendations, and English language assistance.</td>
-    <td><a href="https://voicepet.vercel.app/">VoicePet</a></td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>International Space Station Tracker</td>
-    <td>Interactive 3D model of the International Space Station (ISS) and Earth (NASA Space App Challenge project).</td>
-    <td><a href="https://satellite-isstracker.netlify.app/">International Space Station Tracker</a></td>
-  </tr>
-</table>
+ Socials:
 
-<!---
-sushilbhattarai45/sushilbhattarai45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* [Instagram](https://www.instagram.com/sushil_bhattarai45)
+* [Facebook](https://www.facebook.com/sushilbhattaraiofficial)
+
+---
+
+## About Me
+
+[![Hackathon Winning Moment](https://sushilbhattarai.info.np/static/media/22.4944a6fd3bde7d3cfd6b.jpg?width=60&height=60)](https://sushilbhattarai.info.np/)
+
+ I'm constantly learning and improving my skills in various web development technologies. 
+
+ Check out my [blog](https://sushilbhattarai.hashnode.dev/) for insights and articles on different technical topics. 
+
+ Visit my [website](https://sushilbhattarai.info.np/) to learn more about me and my work. 
+
+ You can also find my [resume](https://sushilbhattarai.info.np/resume) there. 
+
+---
+
+## Projects
+
+I'm passionate about creating real-world applications that can make a positive impact. Here are some of my projects:
+
+| S.N. | Project Name | Description | Live Link |
+|---|---|---|---|
+| 1 | Ragat Nepal | A blood donation app connecting donors and recipients. | [Website](https://ragatnepal.com) |
+| 2 | Onservic | Client app (Android) connecting vendors and customers. | - |
+| 3 | Hashyy | AI platform for summarizing article content. | [Hashyy](https://hashyy.vercel.app/) |
+| 4 | Yaatru | React JS platform for learning about celestial bodies (NASA Space App Challenge project). | [Yaatru](https://yaatru.vercel.app/) |
+| 5 | E-Med Nepal | Platform for centralized and secure patient medical record management accessible only by hospitals. | [E-Med Nepal](https://e-med-nepal.vercel.app/) |
+| 6 | VoicePet | Voice assistant using ChatGPT and Appwrite for information, recommendations, and English language assistance. | [VoicePet](https://voicepet.vercel.app/) |
+| 7 | International Space Station Tracker | Interactive 3D model of the International Space Station (ISS) and Earth (NASA Space App Challenge project). | [International Space Station Tracker](https://satellite-isstracker.netlify.app/) |
+
+---
