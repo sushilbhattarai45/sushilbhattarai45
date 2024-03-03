@@ -1,10 +1,9 @@
- Hi, I'm **@sushilbhattarai45**! 
+👀 Hi, I'm **@sushilbhattarai45**! 
+    I'm a passionate **Full-stack Developer** with a strong interest in building innovative web and mobile applications. 
 
-**** I'm a passionate **Full-stack Developer** with a strong interest in building innovative web and mobile applications. 
+ 💞️ I'm eager to collaborate on exciting projects and share my knowledge with others. Feel free to reach out! 
 
- I'm eager to collaborate on exciting projects and share my knowledge with others. Feel free to reach out! 
-
- Contact me: [bhattaraisushil005@gmail.com](mailto:bhattaraisushil005@gmail.com)
+ 📫 Contact me: [bhattaraisushil005@gmail.com](mailto:bhattaraisushil005@gmail.com)
 
  Socials:
 
