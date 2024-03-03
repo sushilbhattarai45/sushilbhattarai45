@@ -5,6 +5,7 @@
 
  📫 Contact me: [bhattaraisushil005@gmail.com](mailto:bhattaraisushil005@gmail.com)
 
+<hr />
  Socials:
 
 * [Instagram](https://www.instagram.com/sushil_bhattarai45)
@@ -13,6 +14,7 @@
 ---
 
 ## About Me
+<h3>Hackathon Winning Moment </h3>
 
 [![Hackathon Winning Moment](https://sushilbhattarai.info.np/static/media/22.4944a6fd3bde7d3cfd6b.jpg?width=60&height=60)](https://sushilbhattarai.info.np/)
 
@@ -39,5 +41,7 @@ I'm passionate about creating real-world applications that can make a positive i
 | 5 | E-Med Nepal | Platform for centralized and secure patient medical record management accessible only by hospitals. | [E-Med Nepal](https://e-med-nepal.vercel.app/) |
 | 6 | VoicePet | Voice assistant using ChatGPT and Appwrite for information, recommendations, and English language assistance. | [VoicePet](https://voicepet.vercel.app/) |
 | 7 | International Space Station Tracker | Interactive 3D model of the International Space Station (ISS) and Earth (NASA Space App Challenge project). | [International Space Station Tracker](https://satellite-isstracker.netlify.app/) |
+| 8 | MeroRakam | Versatile mobile application designed to streamline and simplify financial transactions for users. Manages everyday transactions and complex financial tasks. | [GitHub](https://github.com/sushilbhattarai45/MeroRakam) |
 
 ---
+
