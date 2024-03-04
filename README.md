@@ -12,6 +12,9 @@
 * [Facebook](https://www.facebook.com/sushilbhattaraiofficial)
 
 ---
+## My Github Stats
+
+![Sushil Bhattarai Stats](https://github-readme-stats.vercel.app/api?username=sushilbhattarai45&show_icons=true&theme=transparent)
 
 ## About Me
 <h3>Hackathon Winning Moment </h3>
