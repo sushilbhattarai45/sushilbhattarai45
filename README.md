@@ -37,14 +37,15 @@ I'm passionate about creating real-world applications that can make a positive i
 
 | S.N. | Project Name | Description | Live Link |
 |---|---|---|---|
-| 1 | Ragat Nepal | A blood donation app connecting donors and recipients. | [Website](https://ragatnepal.com) |
-| 2 | Onservic | Client app (Android) connecting vendors and customers. | - |
-| 3 | Hashyy | AI platform for summarizing article content. | [Hashyy](https://hashyy.vercel.app/) |
-| 4 | Yaatru | React JS platform for learning about celestial bodies (NASA Space App Challenge project). | [Yaatru](https://yaatru.vercel.app/) |
-| 5 | E-Med Nepal | Platform for centralized and secure patient medical record management accessible only by hospitals. | [E-Med Nepal](https://e-med-nepal.vercel.app/) |
-| 6 | VoicePet | Voice assistant using ChatGPT and Appwrite for information, recommendations, and English language assistance. | [VoicePet](https://voicepet.vercel.app/) |
-| 7 | International Space Station Tracker | Interactive 3D model of the International Space Station (ISS) and Earth (NASA Space App Challenge project). | [International Space Station Tracker](https://satellite-isstracker.netlify.app/) |
-| 8 | MeroRakam | Versatile mobile application designed to streamline and simplify financial transactions for users. Manages everyday transactions and complex financial tasks. | [GitHub](https://github.com/sushilbhattarai45/MeroRakam) |
+| 1 | Z1 Tracker Pro | Z1 Tracker is a platform that can track any vehicles and user devices remotely and provides features like a remote engine on/off  system live tracking and many more. | [App](https://play.google.com/store/apps/details?id=com.zonetech.z1tracker) |
+| 2 | Ragat Nepal | A blood donation app connecting donors and recipients. | [Website](https://ragatnepal.com) |
+| 3 | Onservic | Client app (Android) connecting vendors and customers. | - |
+| 4 | Hashyy | AI platform for summarizing article content. | [Hashyy](https://hashyy.vercel.app/) |
+| 5 | Yaatru | React JS platform for learning about celestial bodies (NASA Space App Challenge project). | [Yaatru](https://yaatru.vercel.app/) |
+| 6 | E-Med Nepal | Platform for centralized and secure patient medical record management accessible only by hospitals. | [E-Med Nepal](https://e-med-nepal.vercel.app/) |
+| 7 | VoicePet | Voice assistant using ChatGPT and Appwrite for information, recommendations, and English language assistance. | [VoicePet](https://voicepet.vercel.app/) |
+| 8 | International Space Station Tracker | Interactive 3D model of the International Space Station (ISS) and Earth (NASA Space App Challenge project). | [International Space Station Tracker](https://satellite-isstracker.netlify.app/) |
+| 9 | MeroRakam | Versatile mobile application designed to streamline and simplify financial transactions for users. Manages everyday transactions and complex financial tasks. | [GitHub](https://github.com/sushilbhattarai45/MeroRakam) |
 
 ---
 
