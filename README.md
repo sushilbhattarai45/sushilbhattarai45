@@ -14,7 +14,7 @@
 ---
 ## My Github Stats
 
-![Sushil Bhattarai Stats](https://github-readme-stats.vercel.app/api?username=sushilbhattarai45&show_icons=true&theme=transparent)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sushilbhattarai45?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## About Me
 <h3>Hackathon Winning Moment </h3>
