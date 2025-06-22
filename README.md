@@ -27,7 +27,6 @@
 
  Visit my [website](https://sushilbhattarai.info.np/) to learn more about me and my work. 
 
- You can also find my [resume](https://sushilbhattarai.info.np/resume) here. 
 
 ---
 
