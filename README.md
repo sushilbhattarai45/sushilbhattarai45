@@ -44,7 +44,8 @@ I'm passionate about creating real-world applications that can make a positive i
 | 6 | Yaatru | React JS platform for learning about celestial bodies (NASA Space App Challenge project). | [Yaatru](https://yaatru.vercel.app/) |
 | 7 | E-Med Nepal | Platform for centralized and secure patient medical record management accessible only by hospitals. | [E-Med Nepal](https://e-med-nepal.vercel.app/) |
 | 8 | VoicePet | Voice assistant using ChatGPT and Appwrite for information, recommendations, and English language assistance. | [VoicePet](https://voicepet.vercel.app/) |
-| 9 | International Space Station Tracker | Interactive 3D model of the International Space Station (ISS) and Earth (NASA Space App Challenge project). | [International Space Station Tracker](https://satellite-isstracker.netlify.app/) |
+| 9 | International Space Station Tracker | Built an ISS tracking application with 3D visualization (React.js, Three.js), integrating real-time satellite
+telemetry data with interactive Earth and ISS models for the NASA Space Apps Challenge 2022. | [International Space Station Tracker](https://satellite-isstracker.netlify.app/) |
 | 10 | MeroRakam | Versatile mobile application designed to streamline and simplify financial transactions for users. Manages everyday transactions and complex financial tasks. | [GitHub](https://github.com/sushilbhattarai45/MeroRakam) |
 
 ---
