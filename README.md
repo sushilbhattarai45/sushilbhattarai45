@@ -27,6 +27,9 @@ I'm passionate about creating real-world applications that can make a positive i
 
 ---
 
+<h3>Hackathon Winning Moment </h3>
+
+[![Hackathon Winning Moment](https://sushilbhattarai.info.np/static/media/22.4944a6fd3bde7d3cfd6b.jpg?width=60&height=60)](https://sushilbhattarai.info.np/)
 
 
 <hr />
@@ -36,14 +39,8 @@ I'm passionate about creating real-world applications that can make a positive i
 * [Facebook](https://www.facebook.com/sushilbhattaraiofficial)
 
 ---
-## My Github Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sushilbhattarai45?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## About Me
-<h3>Hackathon Winning Moment </h3>
-
-[![Hackathon Winning Moment](https://sushilbhattarai.info.np/static/media/22.4944a6fd3bde7d3cfd6b.jpg?width=60&height=60)](https://sushilbhattarai.info.np/)
 
  I'm constantly learning and improving my skills in various web development technologies. 
 
