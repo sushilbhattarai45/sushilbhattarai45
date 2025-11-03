@@ -14,7 +14,7 @@ I'm passionate about creating real-world applications that can make a positive i
 
 | S.N. | Project Name | Description | Live Link |
 |---|---|---|---|
-| 1 | Z1 Tracker Pro | Z1 Tracker is a platform that can track any vehicles and user devices remotely and provides features like a remote engine on/off  system live tracking and many more. | [App](https://play.google.com/store/apps/details?id=com.zonetech.z1tracker) |
+| 1 | Z1 Tracker Pro | Z1 Tracker is a platform that can track any vehicles and user devices remotely and provides features like a remote engine on/off  system live tracking and many more. | [App](https://apkpure.com/z1-tracker-pro/com.zonetech.z1tracker) |
 | 2 | Project DevTrack | DevTrack is a government focused project where citizens will have the ability to track governmental projects and government as a whole | [Website](https://devtrack.org/) |
 | 3 | Ragat Nepal | A blood donation app connecting donors and recipients. | [Website](https://ragatnepal.com) |
 | 4 | Onservic | Client app (Android) connecting vendors and customers. | - |
