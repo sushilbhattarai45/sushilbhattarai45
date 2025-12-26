@@ -24,7 +24,7 @@ I love creating impactful projects that combine creativity, technology, and prob
 
 | Project | Tech Stack | Description | Live / Source |
 |---|---|---|---|
-| **Z1 Tracker (Z1 GPS) ** | React Native, Firebase | Track vehicles and devices in real-time with remote engine control and live location visualization. | [App](https://apkpure.com/z1-tracker-pro/com.zonetech.z1tracker) |
+| **Z1 Tracker (Z1 GPS)** | React Native, Firebase | Track vehicles and devices in real-time with remote engine control and live location visualization. | [App](https://play.google.com/store/apps/details?id=com.z1sushil.z1gps) |
 | **SoulLog** | TypeScript, Next.js, Node.js, Gemini AI, Docker | AI-powered journaling platform that analyzes emotions and provides mood-based music recommendations. | [Live Demo](https://soullog.vercel.app/home) |
 | **DevTrack** | Web, React | Government transparency platform for tracking government projects and initiatives. | [Website](https://devtrack.org/) |
 | **Ragat Nepal** | React Native, PHP, MySQL | Real-time blood donor matching platform currently used by 3000+ users. | [App](https://ragatnepal.com) |
